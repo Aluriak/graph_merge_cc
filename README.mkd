@@ -58,3 +58,7 @@ Use [Networkx](http://networkx.org) to found the cc.
 
 `graph/1` atoms NEEDS to be the first in the file.
 `align/4` atoms NEEDS to provide the graphs in the same order.
+
+The input data is defined in the source code.
+
+Not compatible with dinopython.
